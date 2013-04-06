@@ -21,5 +21,3 @@ for i in range(0, len(inString)):
 
 
 print best
-print isPalindrome("racecar")
-print isPalindrome("appel")

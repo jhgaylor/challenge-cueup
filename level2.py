@@ -39,7 +39,7 @@ while not prime:
 # I'm SO silly.  I sat here for 2 hours debugging the stupidest of bugs.  I set min_fib = 227,000 not 227000.  That's what I get for copy pasting from the website.
 x = prime_number
 
-#this wasn't the correct answer initially so i called the number to verify x.  x was correct, but if I had called sooner I would have noticed the comma problem sooner and not have wasted so much time above
+#this function wasntt  returning the correct factors initially so i called the number to verify x.  x was correct, but if I had called sooner I would have noticed the comma problem sooner and not have wasted so much time above
 #the phone call was very cloak and dagger.  +1
 def prime_devisors(num):
     primes = []
